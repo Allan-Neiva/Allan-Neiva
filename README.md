@@ -2,7 +2,7 @@
 
  <di>
   <a href="https://github.com/Allan-Neiva">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app?username=Allan-Neiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan-Neiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="github-readme-stats-sigma-five.vercel.app/top-langs/?username=Allan-Neiva&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
